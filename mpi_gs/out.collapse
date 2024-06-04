@@ -1,0 +1,14 @@
+test100;[unknown];_start;__libc_start_main;__libc_csu_init;_GLOBAL__sub_I_mpi_gs.cpp;std::ios_base::Init::Init;std::locale::locale;[libstdc++.so.6.0.19];__pthread_once_slow;[libstdc++.so.6.0.19];[libstdc++.so.6.0.19] 444104
+test100;[unknown];_start;__libc_start_main;main;PMPI_Init;MPIR_Init_thread;MPID_Init;MPIDI_CH3_Init;MPIDI_CH3U_Init_sock;MPIDI_CH3U_Get_business_card_sock;MPIDU_CH3U_GetSockInterfaceAddr;gethostbyname;gethostbyname_r@@GLIBC_2.17;_nss_files_gethostbyname_r;_nss_files_gethostbyname3_r;fclose@@GLIBC_2.17;_IO_file_close_it@@GLIBC_2.17;__GI___munmap;[unknown];[unknown] 467746
+test100;[unknown];_start;__libc_start_main;main;PMPI_Reduce;MPIR_Reduce_impl;MPIR_Reduce_intra;_dl_runtime_resolve;_dl_fixup;_dl_lookup_symbol_x 442492
+test100;[unknown];_start;__libc_start_main;main;mpi_gaussian_elimination 802709
+test100;[unknown];_start;__libc_start_main;main;rand;__random 420853
+test100;_dl_start 1
+test100;_start 1
+test100;_start;[unknown];[unknown] 1
+test100;_start;_dl_start 126
+test100;_start;_dl_start;_dl_start_final;_dl_sysdep_start 3782
+test100;_start;_dl_start;_dl_start_final;_dl_sysdep_start;dl_main;_dl_map_object_deps;_dl_catch_error;openaux;_dl_map_object;open_path 62403
+test100;_start;_dl_start;_dl_start_final;_dl_sysdep_start;dl_main;_dl_relocate_object 523547
+test100;_start;_dl_start;_dl_start_final;_dl_sysdep_start;dl_main;_dl_relocate_object;_dl_lookup_symbol_x 618872
+test100;_start;_dl_start;_dl_start_final;_dl_sysdep_start;dl_main;_dl_relocate_object;_dl_lookup_symbol_x;do_lookup_x 571715

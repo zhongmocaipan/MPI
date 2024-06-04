@@ -1,0 +1,25 @@
+[1] 19:53:25 [SUCCESS] node1_vir7
+[2] 19:53:25 [SUCCESS] node1_vir6
+scp: /home/s2213925/lab5/mpi_gs/test10000: No such file or directory
+[1] 19:53:28 [SUCCESS] node1_vir7
+[2] 19:53:28 [SUCCESS] node1_vir6
+[1] 19:53:28 [SUCCESS] node1_vir7
+[2] 19:53:28 [SUCCESS] node1_vir6
+[1] 19:53:28 [SUCCESS] node1_vir6
+[2] 19:53:28 [SUCCESS] node1_vir7
+[1] 19:53:29 [SUCCESS] node1_vir6
+[2] 19:53:29 [SUCCESS] node1_vir7
+[1] 19:53:29 [SUCCESS] node1_vir6
+[2] 19:53:29 [SUCCESS] node1_vir7
+[1] 19:53:29 [SUCCESS] node1_vir6
+[2] 19:53:30 [SUCCESS] node1_vir7
+[1] 19:53:30 [SUCCESS] node1_vir6
+[2] 19:53:30 [SUCCESS] node1_vir7
+[1] 19:53:30 [SUCCESS] node1_vir6
+[2] 19:53:30 [SUCCESS] node1_vir7
+[1] 19:53:31 [FAILURE] node1_vir6 Exited with error code 1
+[2] 19:53:31 [FAILURE] node1_vir7 Exited with error code 1
+[proxy:0:0@node1_vir6] HYDU_create_process (./utils/launch/launch.c:75): execvp error on file /home/s2213925/lab5/mpi_gs/test10000 (No such file or directory)
+[proxy:0:0@node1_vir6] HYDU_create_process (./utils/launch/launch.c:75): execvp error on file /home/s2213925/lab5/mpi_gs/test10000 (No such file or directory)
+[proxy:0:1@node1_vir7] HYDU_create_process (./utils/launch/launch.c:75): execvp error on file /home/s2213925/lab5/mpi_gs/test10000 (No such file or directory)
+[proxy:0:1@node1_vir7] HYDU_create_process (./utils/launch/launch.c:75): execvp error on file /home/s2213925/lab5/mpi_gs/test10000 (No such file or directory)

@@ -1,0 +1,42 @@
+[1] 20:17:52 [SUCCESS] node1_vir6
+[2] 20:17:52 [SUCCESS] node1_vir7
+scp: /home/s2213925/lab5/normal/test10000: No such file or directory
+[1] 20:17:58 [SUCCESS] node1_vir7
+[2] 20:17:58 [SUCCESS] node1_vir6
+[1] 20:17:58 [SUCCESS] node1_vir7
+[2] 20:17:58 [SUCCESS] node1_vir6
+[1] 20:17:58 [SUCCESS] node1_vir6
+[2] 20:17:58 [SUCCESS] node1_vir7
+[1] 20:17:59 [SUCCESS] node1_vir7
+[2] 20:17:59 [SUCCESS] node1_vir6
+[1] 20:17:59 [SUCCESS] node1_vir7
+[2] 20:17:59 [SUCCESS] node1_vir6
+[1] 20:17:59 [SUCCESS] node1_vir7
+[2] 20:17:59 [SUCCESS] node1_vir6
+[1] 20:18:00 [SUCCESS] node1_vir7
+[2] 20:18:00 [SUCCESS] node1_vir6
+[1] 20:18:00 [SUCCESS] node1_vir7
+[2] 20:18:00 [SUCCESS] node1_vir6
+[1] 20:18:00 [SUCCESS] node1_vir7
+[2] 20:18:00 [SUCCESS] node1_vir6
+[1] 20:18:01 [SUCCESS] node1_vir7
+[2] 20:18:01 [SUCCESS] node1_vir6
+[1] 20:18:01 [SUCCESS] node1_vir7
+[2] 20:18:01 [SUCCESS] node1_vir6
+[1] 20:18:02 [SUCCESS] node1_vir7
+[2] 20:18:02 [SUCCESS] node1_vir6
+[1] 20:18:02 [SUCCESS] node1_vir7
+[2] 20:18:02 [SUCCESS] node1_vir6
+[1] 20:18:02 [SUCCESS] node1_vir7
+[2] 20:18:02 [SUCCESS] node1_vir6
+[1] 20:18:02 [SUCCESS] node1_vir6
+[2] 20:18:03 [SUCCESS] node1_vir7
+[1] 20:18:03 [SUCCESS] node1_vir7
+[2] 20:18:03 [SUCCESS] node1_vir6
+[1] 20:18:03 [SUCCESS] node1_vir7
+[2] 20:18:03 [SUCCESS] node1_vir6
+[1] 20:18:04 [SUCCESS] node1_vir7
+[2] 20:18:04 [SUCCESS] node1_vir6
+[1] 20:18:04 [FAILURE] node1_vir7 Exited with error code 1
+[2] 20:18:04 [FAILURE] node1_vir6 Exited with error code 1
+=>> PBS: job killed: walltime 3636 exceeded limit 3600
